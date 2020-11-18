@@ -1,3 +1,57 @@
+name1  = input("Give a name ")
+product = input("Give a name of a product")
+job = input("Give job name ")
+number = input("Give a number")
+(adjective that ends in Y) = input("Give a adjective that ends in Y" )
+
+(verb that ends in ed) = input("Give a verb that ends in ed" )
+
+feeling that ends with ness) = input("Give a feling that ends in ness" )
+(adjective costume) = input("Give a adjetive ")
+
+( term for bad adjective) = input(Give a adjective that is negitve)
+
+(celebrity) = input(Give celebrity name)
+
+(emotion ) = input(give a emotion )
+pront(Name1 was desperate for some cash  he had accidentally bought 100""""He needed a job.  That was when he remembered  that  he had that old (job ) costume from halloween 2 years ago. That job made a whole (amount of money ) $ a week!)
+
+#Name 1 (adjective that ends in Y)  put on a mustache for good measure. Name1 was sure that with  this elaborate disguise no one would come close to even  noticing. Later that day it was show time, name1 (verb that ends in ed) to work enveloped in (feeling that ends with ness).   But then one of  name1’s friends sees through your plan.  name1 is shocked how could they simply see through such a  (adjective costume) deguise ?! name 1  pulls you aside ” why are you wearing that ( term for bad adjective) costume !”
+ 
+ #Well you see i needed money I bought  a 100 (products)
+ #If you need money why don't you just sell those? I heard there is a very high demand especially since (celebrity) endorsed it saying they “could not live without it” and it is the “only reason that they get up in the morning.” after hearing that name1 bursting with (emotion ) screamed i'm RICH and ran away. All the other (job) where quite confused.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=3578053&assignment_repo_type=AssignmentRepo)
 # MadLibs
 
